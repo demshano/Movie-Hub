@@ -19,7 +19,7 @@ export const Footer = () => {
             <a  href="www.linkedin.com/in/deshan-manodya-8591ba215" target='_blank' className="mr-4 hover:underline md:mr-6 hover:decoration-blue-500">Linkdin</a>
         </li>
         <li>
-            <a href="https://github.com/demshano" target='_blank' className="hover:underline hover:decoration-blue-500">GitHub</a>
+            <a href="https://github.com/demshano" target='_blank'  rel='githubLink' className="hover:underline hover:decoration-blue-500">GitHub</a>
         </li>
     </ul>
     </div>
