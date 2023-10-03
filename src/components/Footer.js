@@ -16,7 +16,7 @@ export const Footer = () => {
               <a
                 href="https://www.instagram.com"
                 target="_blank"
-                rel="instagramLink"
+                rel="noreferrer"
                 className="mr-4 hover:underline md:mr-6 hover:decoration-blue-500 "
               >
                 Instagram
@@ -26,7 +26,7 @@ export const Footer = () => {
               <a
                 href="https://www.youtube.com"
                 target="_blank"
-                rel="youtubeLink"
+                rel="noreferrer"
                 className="mr-4 hover:underline md:mr-6 hover:decoration-blue-500"
               >
                 You Tube
@@ -36,7 +36,7 @@ export const Footer = () => {
               <a
                 href="www.linkedin.com/in/deshan-manodya-8591ba215"
                 target="_blank"
-                rel="linkdinLink"
+                rel="noreferrer"
                 className="mr-4 hover:underline md:mr-6 hover:decoration-blue-500"
               >
                 Linkdin
@@ -46,7 +46,7 @@ export const Footer = () => {
               <a
                 href="https://github.com/demshano"
                 target="_blank"
-                rel="githubLink"
+                rel="noreferrer"
                 className="hover:underline hover:decoration-blue-500"
               >
                 GitHub
