@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie-Hub/static/css/main.7b461b90.css",
+    "main.js": "/Movie-Hub/static/js/main.11f5a844.js",
+    "static/media/movieApp_logo_1.png": "/Movie-Hub/static/media/movieApp_logo_1.275c66644829b8145129.png",
+    "static/media/backupImage.jpg": "/Movie-Hub/static/media/backupImage.ccf78c6e219e11ebde6f.jpg",
+    "static/media/404_error.png": "/Movie-Hub/static/media/404_error.520627673358d4356340.png",
+    "index.html": "/Movie-Hub/index.html",
+    "main.7b461b90.css.map": "/Movie-Hub/static/css/main.7b461b90.css.map",
+    "main.11f5a844.js.map": "/Movie-Hub/static/js/main.11f5a844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b461b90.css",
+    "static/js/main.11f5a844.js"
+  ]
+}
